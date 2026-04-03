@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Building Horizontal",
+      "replace_ids": [
+        4816997258
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Old%20Building%20Textures/Horizontal%20Building.png?raw=true"
+    },
+    {
+      "name": "Building Vertical",
+      "replace_ids": [
+        9071495364
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Old%20Building%20Textures/Vertical%20Building.png?raw=true"
+    }
+  ]
+}
