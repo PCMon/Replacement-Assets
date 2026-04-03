@@ -1,0 +1,56 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Iceborn Effect Sound",
+      "replace_ids": [
+        93021512657278
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Iceborn Effect Texture",
+      "replace_ids": [
+        13722228396
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Iceborn Idle",
+      "replace_ids": [
+        12508936266
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Iceborn%20QOL%20Changes/IcebornIdle.ogg?raw=true"
+    },
+    {
+      "name": "Iceborn Low",
+      "replace_ids": [
+        12508938252
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Iceborn%20QOL%20Changes/IcebornLow.ogg?raw=true"
+    },
+    {
+      "name": "Iceborn Mid",
+      "replace_ids": [
+        12508941058
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Iceborn%20QOL%20Changes/IcebornMid.ogg?raw=true"
+    },
+    {
+      "name": "Iceborn High",
+      "replace_ids": [
+        12508942721
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Iceborn%20QOL%20Changes/IcebornHigh.ogg?raw=true"
+    }
+  ]
+}
