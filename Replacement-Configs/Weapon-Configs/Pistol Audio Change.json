@@ -1,0 +1,40 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Pistol Fire",
+      "replace_ids": [
+        16663716300
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Pistol%20Audio%20Changes/PistolSilencedFire.ogg?raw=true"
+    },
+    {
+      "name": "Pistol Mag Insert",
+      "replace_ids": [
+        2140552733
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Pistol%20Audio%20Changes/MagInsert.ogg?raw=true"
+    },
+    {
+      "name": "Pistol Mag Remove",
+      "replace_ids": [
+        2140552990
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Pistol%20Audio%20Changes/MagDrop.ogg?raw=true"
+    },
+    {
+      "name": "Pistol Slide Forward",
+      "replace_ids": [
+        2140552275
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Pistol%20Audio%20Changes/SlideForward.ogg?raw=true"
+    }
+  ]
+}

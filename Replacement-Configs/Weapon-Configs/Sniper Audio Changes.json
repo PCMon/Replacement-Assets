@@ -1,0 +1,48 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Sniper Fire",
+      "replace_ids": [
+        16652898664
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Sniper%20Audio%20Changes/Sniper%20Fire.ogg?raw=true"
+    },
+    {
+      "name": "Sniper Reload",
+      "replace_ids": [
+        4761314769
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Sniper%20Audio%20Changes/Sniper%20Bolt%20Close.ogg?raw=true"
+    },
+    {
+      "name": "Sniper Mag In",
+      "replace_ids": [
+        4761315290
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Sniper%20Audio%20Changes/Singleload.ogg?raw=true"
+    },
+    {
+      "name": "Sniper Mag Out",
+      "replace_ids": [
+        4761315536
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Sniper%20Audio%20Changes/Sniper%20bolt%20open.ogg?raw=true"
+    },
+    {
+      "name": "Sniper Scope In",
+      "replace_ids": [
+        4761314135
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
