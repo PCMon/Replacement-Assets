@@ -1,0 +1,93 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Hotbar Slot",
+      "replace_ids": [
+        4876179727
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Hotbar.png?raw=true"
+    },
+    {
+      "name": "Sidebutton Keybind Background",
+      "replace_ids": [
+        7852334955
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Hotbar.png?raw=true"
+    },
+    {
+      "name": "Garage Icon",
+      "replace_ids": [
+        8733342027
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Garage.png?raw=true"
+    },
+    {
+      "name": "Team Icon",
+      "replace_ids": [
+        4912231691
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Team.png?raw=true"
+    },
+    {
+      "name": "Settings Icon",
+      "replace_ids": [
+        8733343021
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Settings.png?raw=true"
+    },
+    {
+      "name": "Money Icon",
+      "replace_ids": [
+        4912231216
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Money.png?raw=true"
+    },
+    {
+      "name": "Safe Icon",
+      "replace_ids": [
+        10313420284
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Safe.png?raw=true"
+    },
+    {
+      "name": "Safe Counter Background",
+      "replace_ids": [
+        4915102010
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Time Container",
+      "replace_ids": [
+        4903944433
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Time.png?raw=true"
+    },
+    {
+      "name": "Red Close Dot",
+      "replace_ids": [
+        4933143781
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/User%20Interface%20Redesign/Close.png?raw=true"
+    }
+  ]
+}

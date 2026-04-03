@@ -1,0 +1,111 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Background",
+      "replace_ids": [
+        5764953707
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashBackground.png?raw=true"
+    },
+    {
+      "name": "Cash Large",
+      "replace_ids": [
+        120350560965688
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashLarge.png?raw=true"
+    },
+    {
+      "name": "Cash Big",
+      "replace_ids": [
+        94189333233382
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashBig.png?raw=true"
+    },
+    {
+      "name": "Cash Medium",
+      "replace_ids": [
+        117189665631548
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashMedium.png?raw=true"
+    },
+    {
+      "name": "Cash Small",
+      "replace_ids": [
+        107492015804497
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashSmall.png?raw=true"
+    },
+    {
+      "name": "Cash Mini",
+      "replace_ids": [
+        136035363746276
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashMini.png?raw=true"
+    },
+    {
+      "name": "Cash Box",
+      "replace_ids": [
+        4915085458
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashBox.png?raw=true"
+    },
+    {
+      "name": "Drop Button",
+      "replace_ids": [
+        4936002828
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/DropButton.png?raw=true"
+    },
+    {
+      "name": "Drop Field",
+      "replace_ids": [
+        4936002527
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/CashField.png?raw=true"
+    },
+    {
+      "name": "Text Background",
+      "replace_ids": [
+        4915087157
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/Text_Background.png?raw=true"
+    },
+    {
+      "name": "Purchase Background",
+      "replace_ids": [
+        5764954688
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Cash%20Interface%20Redesign/Purchase_Background.png?raw=true"
+    },
+    {
+      "name": "Default Border",
+      "replace_ids": [
+        5764958669
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
