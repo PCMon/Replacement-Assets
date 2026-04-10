@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Prison Shirt",
+      "replace_ids": [
+        11118188200
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Prison%20Jumpsuit%20Change/Shirt.png?raw=true"
+    },
+    {
+      "name": "Prison Pants",
+      "replace_ids": [
+        11118203538
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/PCMon/Replacement-Assets/blob/main/Replacements/Prison%20Jumpsuit%20Change/Pants.png?raw=true"
+    }
+  ]
+}
